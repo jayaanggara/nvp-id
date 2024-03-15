@@ -48,3 +48,11 @@ body {
 .owl-stage{
   top: 50px;
 }
+.file-input{
+  position: relative; top: -20px; left: 15px; height: 100%; width: 100%; cursor: pointer; opacity: 1;
+}
+.container-file span{
+  position: absolute;
+  top: 30px;
+  left: 0px;
+}

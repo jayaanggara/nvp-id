@@ -62,7 +62,7 @@ $price = get_field('price');
                 </div>
             </div>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-14 text-white md:w-11/12 pb-[50px] pt-[10px] md:py-[100px]">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-14 text-white md:w-11/12 pb-[50px] pt-[10px] md:py-[100px] mx-auto">
             <?php
             if ($about['list_benefit']) :
                 $count;
