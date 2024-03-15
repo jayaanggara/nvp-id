@@ -8,12 +8,6 @@
  */
 
 get_header();
-
-$header = get_field('header');
-$about = get_field('about');
-$services = get_field('service');
-$client = get_field('client');
-$price = get_field('price');
 ?>
 <div class="w-full relative bg-gradient-to-b from-[#6A71B5] to-[#41477B] rounded-b-[50px]">
     <header id="header" class="delimiter max-w-screen-xl md:h-[100vh] py-[100px] md:py-[0px]">
